@@ -1,7 +1,4 @@
 {
-  "otp": {
-    "request_id": "a65544544545454445454544545"
-  },
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
@@ -15,4 +12,3 @@
     "name": "typicode"
   }
 }
-
