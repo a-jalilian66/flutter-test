@@ -10,5 +10,10 @@
   ],
   "otp": {
     "request_id": "sadasdasdasdasd"
+  },
+  "profile": {
+    "name": "alireza",
+    "lastname": "jalilian",
+    "gender": "male"
   }
 }
